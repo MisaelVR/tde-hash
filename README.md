@@ -136,7 +136,6 @@ Depois, use o script Python plot_hash_results.py para gerar os gráficos.
 - Disciplina: Resolução de Problemas Estruturados em Computação
 - Engenharia de Software – PUCPR
 ---
----
 ## 🖼 Exemplos de Gráficos
 - 📊 Gráfico 1 – Colisões na Inserção
 ![grafico1_colisoes_insercao](https://github.com/user-attachments/assets/c68fe19a-7880-4f3d-b8e9-311eb6aead55)
